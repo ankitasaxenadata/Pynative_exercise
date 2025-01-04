@@ -5,9 +5,11 @@
 
 For example, str = "PYnative". so your code should display 'P', 'n', 't', 'v'."""
 
+# Displaying original string
 original = input("Original String is : ")
 
 print("Printing only even Index chars")
+
 for i in range (len(original)):
     if (i % 2 == 0):
         print(original[i])

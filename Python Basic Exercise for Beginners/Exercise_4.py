@@ -13,7 +13,7 @@ length = len(str)
 
 word = ""
 for i in range (length):
-    if i in range (remove,length):
+    if i in range (remove,length): # selecting the index from the acceptable range
         word = word + str[i]
 print(word)
 
