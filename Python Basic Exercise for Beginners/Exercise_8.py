@@ -15,5 +15,5 @@ size = int(input("Enter the size: "))
 
 for i in range (size + 1):
     for j in range (i):
-        print(i, end = " ")
+        print(i,"\t", end = " ")
     print()
