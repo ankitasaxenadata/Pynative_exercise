@@ -1,1 +1,1 @@
-# Exercise 1: Print first
+# Exercise 1: Print first 10 natural
