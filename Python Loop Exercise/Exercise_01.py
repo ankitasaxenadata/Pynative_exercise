@@ -1,1 +1,1 @@
-# Exercise 1: Print first 10 natural
+# Exercise 1: Print first 10 natural numbers
