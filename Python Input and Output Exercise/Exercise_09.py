@@ -1,6 +1,6 @@
 # Exercise 9: Check file is empty or not
 
-f = open("ankita.txt")
+file = open("ankita.txt")
 
 word = f.readlines()
 count = 0
