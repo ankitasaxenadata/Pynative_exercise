@@ -1,6 +1,6 @@
 # Exercise 10: Read line number 4 from the following file
 
-f = open("test.txt")
+file = open("test.txt")
 
 word = f.readlines()
 count = 0
