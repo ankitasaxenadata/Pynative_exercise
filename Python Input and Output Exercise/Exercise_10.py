@@ -2,7 +2,6 @@
 
 f = open("test.txt")
 
-
 word = f.readlines()
 count = 0
 for i in range(len(word)):
