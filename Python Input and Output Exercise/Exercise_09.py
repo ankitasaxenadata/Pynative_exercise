@@ -2,7 +2,7 @@
 
 file = open("ankita.txt")
 
-word = f.readlines()
+word = file.readlines()
 count = 0
 for i in range(len(word)):
     count = count + 1
